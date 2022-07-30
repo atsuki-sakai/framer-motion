@@ -50,7 +50,7 @@ export default function Home() {
             TAP HERE!!
           </motion.div>
         </motion.div>
-        <motion.div className="text-black hover:text-blue-500" whileHover={{ color: "#FFFFFF" }}>
+        <motion.div className="text-black hover:text-blue-500">
           heloegd
         </motion.div>
       </div>
